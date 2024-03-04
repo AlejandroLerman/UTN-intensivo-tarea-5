@@ -1,1 +1,1 @@
-Hacer responsivas las cajas desarrolladas en la tarea anterior.
+Hacer responsivas las cajas desarrolladas en la tarea anterior, con tres puntos de quiebre y en base al diseño original de hostinger.com.
