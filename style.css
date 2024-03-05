@@ -177,7 +177,30 @@ nav a:hover{
     }
 }
 
-/* Consulta al docente: a los 320px apróx se rompe y no sé cómo solucionarlo. */
+/* @media screen and (max-width: 320px){ 
+
+    .opinions-section{
+        width:302px;
+    }
+
+    .verified-opinion{
+        width: 100%;
+    }
+}
+    
+@media screen and (max-width: 72px){ 
+
+    .opinions-section{
+        width:222px;
+    }
+
+    .verified-opinion{
+        width: 100%;
+    }
+} */
+    
+        
+
 
 
 
